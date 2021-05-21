@@ -13,3 +13,4 @@
 <code><img alt="react" src="./assets/react.svg" width="40" height="40" /></code>
 <code><img alt="angular" src="./assets/angular.svg" width="40" height="40" /></code>
 <code><img alt="cpp" src="./assets/cpp.svg" width="40" height="40" /></code>
+<code><img alt="postgresql" src="./assets/postgresql.svg" width="40" height="40" /></code>
