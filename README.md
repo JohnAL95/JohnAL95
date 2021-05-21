@@ -17,4 +17,3 @@
 <code><img alt="python" src="./assets/python.svg" width="40" height="40" /></code>
 <code><img alt="html5" src="./assets/html5.svg" width="40" height="40" /></code>
 <code><img alt="css3" src="./assets/css3.svg" width="40" height="40" /></code>
-<code><img alt="express" src="./assets/express.svg" width="40" height="40" /></code>
