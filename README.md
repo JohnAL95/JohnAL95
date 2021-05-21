@@ -15,3 +15,5 @@
 <code><img alt="cpp" src="./assets/cpp.svg" width="40" height="40" /></code>
 <code><img alt="postgresql" src="./assets/postgresql.svg" width="40" height="40" /></code>
 <code><img alt="python" src="./assets/python.svg" width="40" height="40" /></code>
+<code><img alt="html5" src="./assets/html5.svg" width="40" height="40" /></code>
+<code><img alt="express" src="./assets/express.svg" width="40" height="40" /></code>
