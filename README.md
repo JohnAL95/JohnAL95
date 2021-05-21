@@ -1,8 +1,8 @@
-### Hi there, I'm a full-stack developer
+### Hi there, I'm Joao, a full stack developer based in Barcelona
 
 🔭 currently working on ...
 
-🌱 currently learning ...
+🌱 currently learning Spring Boot
 
 📫 How to reach me: joao.afonso.1995@gmail.com
 
