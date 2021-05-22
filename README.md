@@ -1,10 +1,15 @@
-### Hi there, I'm Joao, a full stack developer based in Barcelona
-
-<!-- 🔭 currently working on... -->
-
-🌱 currently learning Spring Boot
+## Hi there, I'm Joao, a full stack developer based in Barcelona
 
 📫 How to reach me: joao.afonso.1995@gmail.com
+
+### Currently I'm...
+
+🔭 ...working on [@SwellByte](https://github.com/SwellByte)
+
+🌱 ...learning Spring Boot
+
+### I also love
+🏄‍♂️ Surfing
 
 ### My Languages and tools
 
