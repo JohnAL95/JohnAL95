@@ -2,7 +2,7 @@
 
 📫 How to reach me: joao.afonso.1995@gmail.com
 
-### Currently I'm ...
+### Currently I'm...
 
 🔭 ... working as a full stack developer [@SwellByte](https://github.com/SwellByte)
 
