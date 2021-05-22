@@ -4,7 +4,7 @@
 
 ### Currently I'm...
 
-🔭 ...working on [@SwellByte](https://github.com/SwellByte)
+🔭 ...working as a full stack developer [@SwellByte](https://github.com/SwellByte)
 
 🌱 ...learning Spring Boot
 
