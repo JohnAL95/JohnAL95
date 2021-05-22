@@ -2,11 +2,11 @@
 
 📫 How to reach me: joao.afonso.1995@gmail.com
 
-### Currently I'm...
+### Currently I'm ...
 
-🔭 ...working as a full stack developer [@SwellByte](https://github.com/SwellByte)
+🔭 ... working as a full stack developer [@SwellByte](https://github.com/SwellByte)
 
-🌱 ...learning Spring Boot
+🌱 ... learning Spring Boot
 
 ### I also love
 🏄‍♂️ Surfing
