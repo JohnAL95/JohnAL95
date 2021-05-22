@@ -1,6 +1,6 @@
 ### Hi there, I'm Joao, a full stack developer based in Barcelona
 
-🔭 currently working on SwellByte, a surf forecast app that leverages data from multiple weather forecast models to provide the most accurate forecasts
+🔭 currently working on SwellByte, a surf forecast app that leverages data from multiple weather forecast models in order to provide the most accurate forecasts
 
 🌱 currently learning Spring Boot
 
