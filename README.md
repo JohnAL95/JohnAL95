@@ -1,6 +1,6 @@
 ### Hi there, I'm Joao, a full stack developer based in Barcelona
 
-🔭 currently working on the web version MyMarket, a mobile app that helps you browse through stocks and find good investments.
+🔭 currently working on the web version of MyMarket, a mobile app that helps you browse through stocks and find good investments.
 
 🌱 currently learning Spring Boot
 
