@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><img alt="linkedin" src="./assets/linkedin.svg" width="20" height="20"/></td>
-    <td><a href="https://www.linkedin.com/in/joaogasparlopes/" target="_blank">joaogasparlopes</a></td>
+    <td><a href="https://www.linkedin.com/in/joaogasparlopes/">joaogasparlopes</a></td>
   </tr>
 </table>
 
