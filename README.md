@@ -12,7 +12,7 @@
       <td><a href="https://www.linkedin.com/in/joaogasparlopes/" target="_blank">joaogasparlopes</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td><img alt="gmail" src="./assets/gmail.svg" width="20" height="20"/></td>
       <td>joao.afonso.1995@gmail.com</td>
     </tr>
   </tbody>
