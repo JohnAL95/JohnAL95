@@ -1,21 +1,14 @@
 ## Hi there, I'm Joao, a full stack developer based in Barcelona
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th colspan="2">How to reach me</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img alt="linkedin" src="./assets/linkedin.svg" width="20" height="20"/></td>
-      <td><a href="https://www.linkedin.com/in/joaogasparlopes/" target="_blank">joaogasparlopes</a></td>
-    </tr>
-    <tr>
-      <td><img alt="gmail" src="./assets/gmail.svg" width="20" height="20"/></td>
-      <td>joao.afonso.1995@gmail.com</td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td><img alt="gmail" src="./assets/gmail.svg" width="20" height="20"/></td>
+    <td>joao.afonso.1995@gmail.com</td>
+  </tr>
+  <tr>
+    <td><img alt="linkedin" src="./assets/linkedin.svg" width="20" height="20"/></td>
+    <td><a href="https://www.linkedin.com/in/joaogasparlopes/" target="_blank">joaogasparlopes</a></td>
+  </tr>
 </table>
 
 ### Currently I'm...
