@@ -1,7 +1,10 @@
 ## Hi there, I'm Joao, a full stack developer based in Barcelona
 
 📫 How to reach me: joao.afonso.1995@gmail.com
-<img alt="linkedin" src="./assets/linkedin.svg" width="20" height="20" /><a href="https://www.linkedin.com/in/joaogasparlopes/">joaogasparlopes</a>
+<div style="display: flex; align-items: center;">
+  <img alt="linkedin" src="./assets/linkedin.svg" width="20" height="20"/>
+  <a href="https://www.linkedin.com/in/joaogasparlopes/" target="_blank" styles="margin-left: 5px;">joaogasparlopes</a>
+<div>
 
 ### Currently I'm...
 
