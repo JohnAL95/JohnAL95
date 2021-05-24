@@ -13,12 +13,12 @@
 
 ### Currently I'm...
 
-🔭 working as a full stack developer [@SwellByte](https://github.com/SwellByte)
+- working as a full stack developer [@SwellByte](https://github.com/SwellByte)
 
-🌱 learning Spring Boot
+- learning Spring Boot
 
-### I also love
-🏄‍♂️ Surfing
+### I also love...
+- Surfing 🏄‍
 
 ### My Languages and tools
 
