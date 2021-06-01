@@ -8,7 +8,7 @@
 
 ### I'm currently
 
-- working as a full stack developer [@SwellByte](https://github.com/SwellByte)
+- collaborating as a full stack developer [@SwellByte](https://github.com/SwellByte)
 
 - learning Spring Boot
 
