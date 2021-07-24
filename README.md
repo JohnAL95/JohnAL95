@@ -6,16 +6,6 @@
 
 <a href="https://www.linkedin.com/in/joaogasparlopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-### I'm currently
-
-- collaborating as a full stack developer [@SwellByte](https://github.com/SwellByte)
-
-- learning Spring Boot
-
-### Outside of coding, I also love
-- Surfing 🏄‍
-- Learning new languages 🌎
-
 <br>
 
 ### My Languages and tools
