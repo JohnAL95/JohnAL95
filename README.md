@@ -1,7 +1,5 @@
 ## Hi there, I'm Joao, a full stack software engineer
 
-<img align="right" href="https://github.com/JohnAL95" src="./assets/animation.gif" height=400>
-
 👇 get in touch!
 
 <a href="https://www.linkedin.com/in/joaogasparlopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
